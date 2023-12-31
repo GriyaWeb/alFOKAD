@@ -4,7 +4,7 @@
 @section('content')
 <br>
 <center>
-<h1>Hi, Ini adalah halaman Kepala Sekolah!</h1>
+<h2>Hi, Ini adalah halaman Kepala Sekolah!</h2>
 </center>
 
 @endsection
